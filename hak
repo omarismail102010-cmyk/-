@@ -1,0 +1,15 @@
+Affinity-Hacker/
+│
+├── index.html
+├── css/
+│   ├── style.css
+│   └── animations.css
+├── js/
+│   ├── matrix.js
+│   ├── terminal.js
+│   ├── loading.js
+│   └── app.js
+├── assets/
+│   ├── logo.png
+│   └── sounds/
+└── README.md
